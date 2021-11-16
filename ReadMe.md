@@ -6,4 +6,4 @@ Tasks to complete :-
 
 2. Page "Stories" - Select "crisis response" from "Stories about" dropdown and make sure that appropriate panel appears
 
-Use BDD approach with parameter with value of "crisis response"
+Use BDD approach with parameter to store the value of "crisis response"
